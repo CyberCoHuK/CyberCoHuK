@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 
-### 💻 Technical skills:
+### Skills:
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -12,14 +12,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring" alt="spring" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="spring" alt="spring" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
-</div>
-
----
-
-### 🛠 Tools:
-
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="[blender](https://www.blender.org/)" width="40" height="40"/>
 </div>
 
 ---
