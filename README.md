@@ -29,4 +29,4 @@
   </tr>
 </table>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyberCoHuK)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=&theme=radical&border_radius=5)](https://git.io/streak-stats)
