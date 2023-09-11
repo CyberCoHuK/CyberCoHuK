@@ -19,7 +19,7 @@
 ### 🛠 Tools:
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="blender" alt="[blender](https://www.blender.org/)" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="[blender](https://www.blender.org/)" width="40" height="40"/>
 </div>
 
 ---
