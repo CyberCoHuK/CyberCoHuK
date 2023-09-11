@@ -4,7 +4,6 @@
 ### 💻 Technical skills:
 
 <div>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 </div>
 
 ---
@@ -12,7 +11,7 @@
 ### 🛠 Tools:
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="blender" alt="blender" width="40" height="40"/>&nbsp/>
 </div>
 
 ---
