@@ -11,7 +11,7 @@
 ### 🛠 Tools:
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="blender" alt="blender" width="40" height="40"/>&nbsp/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="blender" alt="blender" width="40" height="40"/>&nbsp
 </div>
 
 ---
