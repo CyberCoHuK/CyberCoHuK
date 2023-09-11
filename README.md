@@ -28,6 +28,4 @@
     </td>
   </tr>
 </table>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CyberCoHuK)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyberCoHuK)](https://git.io/streak-stats)
