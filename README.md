@@ -46,14 +46,4 @@ I am a junior Java programmer. Completed courses from [Yandex Practicum](https:/
 ---
 
 ### GitHub statistics:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=cybercohuk&theme=tokyonight&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cybercohuk&layout=compact&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
+![CyberCoHuK's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybercohuk&show_icons=true)
